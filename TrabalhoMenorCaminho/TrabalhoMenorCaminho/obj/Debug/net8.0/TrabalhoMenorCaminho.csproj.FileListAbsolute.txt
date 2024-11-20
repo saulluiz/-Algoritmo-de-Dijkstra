@@ -1,0 +1,14 @@
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\bin\Debug\net8.0\TrabalhoMenorCaminho.exe
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\bin\Debug\net8.0\TrabalhoMenorCaminho.deps.json
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\bin\Debug\net8.0\TrabalhoMenorCaminho.runtimeconfig.json
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\bin\Debug\net8.0\TrabalhoMenorCaminho.dll
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\bin\Debug\net8.0\TrabalhoMenorCaminho.pdb
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\obj\Debug\net8.0\TrabalhoMenorCaminho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\obj\Debug\net8.0\TrabalhoMenorCaminho.AssemblyInfoInputs.cache
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\obj\Debug\net8.0\TrabalhoMenorCaminho.AssemblyInfo.cs
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\obj\Debug\net8.0\TrabalhoMenorCaminho.csproj.CoreCompileInputs.cache
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\obj\Debug\net8.0\TrabalhoMenorCaminho.dll
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\obj\Debug\net8.0\refint\TrabalhoMenorCaminho.dll
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\obj\Debug\net8.0\TrabalhoMenorCaminho.pdb
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\obj\Debug\net8.0\TrabalhoMenorCaminho.genruntimeconfig.cache
+C:\Users\Saulo Luiz\source\repos\TrabalhoMenorCaminho\TrabalhoMenorCaminho\obj\Debug\net8.0\ref\TrabalhoMenorCaminho.dll
